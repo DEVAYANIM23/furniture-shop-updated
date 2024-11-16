@@ -23,11 +23,11 @@ const category = [
         name: 'Office chairs'
     },
     {
-        image: 'https://hometown.gumlet.io/media/cms/icons/shopbyCat112.jpg?w=400&dpr=1.3',
+        image: 'https://www.ulcdn.net/images/products/364901/product/Mitali_Bookshelf_LP.jpg?1628159490',
         name: 'Book Shelves'
     },
     {
-        image: 'https://hometown.gumlet.io/media/cms/categories/furniture/shopbyCat6.png?w=400&dpr=1.3',
+        image: 'https://ii1.pepperfry.com/media/catalog/product/k/o/494x544/kosmo-carnival-2-door-wardrobe-in-melamine-finish-with-mirror-kosmo-carnival-2-door-wardrobe-in-mela-6tzyxk.jpg',
         name: 'Wardrobes'
     },
     {
